@@ -18,7 +18,7 @@ This repo serves as a tutorial for developers to create a [6b6t](https://www.6b6
 ## Creation
 1. The first step is to clone this repo by running the command
 ```shell
-git clone git:github.com/therealrealguy/6b6t-bot-creation-main.git
+git clone https://github.com/therealrealguy/6b6t-bot-creation-main
 ```
 This will download the all of the code into a folder.
 
