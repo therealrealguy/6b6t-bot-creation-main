@@ -1,5 +1,7 @@
 # 100% uptime 6b6t bot
 
+## i did not create this all credit goes to byrobuff "byrobuffbanned" on discord
+
 This repo serves as a tutorial for developers to create a [6b6t](https://www.6b6t.org) bot using the template provided. We will cover everything from bot creation to hosting.
 
 <sub>Please star ⭐</sub>
